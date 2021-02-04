@@ -287,12 +287,17 @@ ul li {
 a {
   text-decoration: none;
   font-family: open sans, sans-serif;
+  color: white;
 }
 
 .align-text {
   text-align: justify;
   margin-right: 2%;
   font: bold;
+}
+
+.contact {
+  color: white;
 }
 
 .title {
